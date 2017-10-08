@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'angular2-timer',
   template: `
-    <ng-content>{{ date }}</ng-content>
+    <div>{{ date }}</div>
   `
 })
 

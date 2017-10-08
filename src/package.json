@@ -1,0 +1,28 @@
+{
+  "name": "angular2-timer",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hchockarprasad/angular2-timer"
+  },
+  "author": {
+    "name": "hchockarprasad",
+    "email": "hchockarprasad@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hchockarprasad/angular2-timer/issues"
+  },
+  "main": "angular2-timer.umd.js",
+  "module": "angular2-timer.js",
+  "jsnext:main": "angular2-timer.js",
+  "typings": "angular2-timer.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
